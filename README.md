@@ -27,7 +27,8 @@
 　
 ### 仕様
 #### 画面仕様 
-    - <img width="631" height="902" alt="image" src="https://github.com/user-attachments/assets/d6fdd0cd-575e-4ede-beae-51e67dae5d8a" />
+<img width="631" height="902" alt="image" src="https://github.com/user-attachments/assets/991bebe9-156f-4823-b892-763c4e6e2fe3" />
+
 
 
 #### 機能一覧  
@@ -42,4 +43,5 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Step3-1　宿題パッケージstarterのサンプルアプリです
+
 
