@@ -2,28 +2,28 @@
 　　　　YOKOが追記したREADME
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ## 課題概要
-　‐ LinkFastAPINextStarter
-　‐ 下記のgithubからコードを落としてきて、機能④・機能⑤を追加する
-　‐ コード： https://github.com/takuya-tech0/LinkFastAPINextStarter
+- LinkFastAPINextStarter
+- 下記のgithubからコードを落としてきて、機能④・機能⑤を追加する
+- コード： https://github.com/takuya-tech0/LinkFastAPINextStarter
 
 ## 感想
-‐ 既存のコードを見よう見まねでコピーして修正してなんとかクリア
-‐ 変数の命名とか重複している部分もありはイケてない。
-‐ フロントエンドとバックエンドがこうやってつながるんだなという姿がおぼろげに見えた。
+- 既存のコードを見よう見まねでコピーして修正してなんとかクリア
+- 変数の命名とか重複している部分もありはイケてない。
+- フロントエンドとバックエンドがこうやってつながるんだなという姿がおぼろげに見えた。
 
 ## 実行の手順：バックエンド（FastAPI）とフロントエンド（Next.js）をそれぞれターミナルを開き起動させる
 
 ### バックエンド（FastAPI）
-　1．cd backend　!　backendのフォルダに移動する
-　2．python -m venv venv　!　仮想環境を構築する手順なので構築初回のみ必要でそれ以降は不要な手順
-　3．.\venv\Scripts\activate　!　仮想環境を有効化する
-　4．pip install fastapi uvicorn　!　インストールなのでこちらも手順2と同様に構築初回のみ必要でそれ以降は不要な手順
-　5．uvicorn app:app --reload --port 8000　!　FastAPIを起動する
+ 1. cd backend　!　backendのフォルダに移動する
+ 2. python -m venv venv　!　仮想環境を構築する手順なので構築初回のみ必要でそれ以降は不要な手順
+ 3. .\venv\Scripts\activate　!　仮想環境を有効化する
+ 4. pip install fastapi uvicorn　!　インストールなのでこちらも手順2と同様に構築初回のみ必要でそれ以降は不要な手順
+ 5. uvicorn app:app --reload --port 8000　!　FastAPIを起動する
 
 ### フロントエンド（Next.js）
-　1．cd frontend　! frontendのフォルダに移動する
-  2．npm install　! npmのインストールなのでこちらも構築初回のみ必要でそれ以降は不要な手順
-  3．npm run dev
+ 1. cd frontend　! frontendのフォルダに移動する
+ 2.  npm install　! npmのインストールなのでこちらも構築初回のみ必要でそれ以降は不要な手順
+ 3.  npm run dev
 　
 ### 仕様
 #### 画面仕様 
@@ -43,5 +43,6 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Step3-1　宿題パッケージstarterのサンプルアプリです
+
 
 
